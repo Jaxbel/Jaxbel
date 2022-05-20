@@ -7,7 +7,7 @@
 const jaxbel = {
   code: [Python, C#, JavaScript , CSS, R],
   techCommunities: { member: "TribalDevs"},
-  tools: [Atom, Slack, Node, Bopotstrap, ],
+  tools: [VSCode, Slack, Node, Bopotstrap, ],
 }
 ```
 <h3> 👨🏻‍💻 About Me </h3>
