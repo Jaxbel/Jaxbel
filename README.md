@@ -1,6 +1,6 @@
 ### Hi there, i'm Jazziel👋
 
-<img align="right" alt="GIF" height="400px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="100px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 [![Twitter: Jaxxbel](https://img.shields.io/twitter/follow/Jaxxbel?style=social)](https://twitter.com/Jaxxbel)
 [![GitHub Jaxbel](https://img.shields.io/github/followers/jaxbel?label=follow&style=social)](https://github.com/Jaxbel)
