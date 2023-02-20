@@ -32,6 +32,15 @@ const jaxbel = {
 [![HitCount](http://hits.dwyl.com/Jaxbel/Jaxbel.svg)](http://hits.dwyl.com/Jaxbel/Jaxbel)
 
 <i>Follow me:</i><br>
+  
+# HORARIO
+| HORA | LUNES | MARTES | MIERCOLES | JUEVES | VIERNES |
+|------|-------|--------|-----------|--------|---------|
+| 3pm  | TDI   | TDI    | TDI       | TDI    |  GPS    |
+| 4pm  | GPS   | GPS    | GPS       | GPS    |  GPS    |
+| 5m   | SP    | SP     | SP        | SP     |         |
+| 6pm  | TADS  | TADS   | TADS      | TADS   |  TADS   |
+| 7pm  | DEIU  | DEIU   | DEIU      | DEIU   |  DEIU   |
 
 <a href="https://www.linkedin.com/in/jazziel-bello-86630323b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/Jaxbel" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
