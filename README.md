@@ -8,7 +8,7 @@
 const jaxbel = {
   code: [Python, C#, JavaScript , HTML, CSS, R],
   techCommunities: { member: "TribalDevs"},
-  tools: [VSCode, Django, Bootstrap, React],
+  FrameWorks: [Django, React],
 }
 ```
 <h3> 👨🏻‍💻 About Me </h3>
