@@ -13,7 +13,7 @@ const jaxbel = {
 ```
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Back end Java
+- 🔭 &nbsp; I’m currently learning Backend Java
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Software Engeneering.
 - ✍️ &nbsp; Watching Anime.
