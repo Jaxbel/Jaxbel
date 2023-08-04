@@ -6,7 +6,7 @@
 
 ```Js
 const jaxbel = {
-  code: [Python, C#, JavaScript , HTML, CSS, R],
+  code: [Python, Java, C#, JavaScript , HTML, CSS, R],
   techCommunities: { member: "TribalDevs"},
   FrameWorks: [Django, React],
 }
