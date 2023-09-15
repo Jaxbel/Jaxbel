@@ -17,7 +17,10 @@ const jaxbel = {
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Software Engeneering.
 - ✍️ &nbsp; Watching Anime.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMerc&theme=tokyonight&layout=compact"></img>
+
 
 
 ![Jaxbel's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaxbel&show_icons=true&theme=graywhite)
