@@ -19,7 +19,7 @@ const jaxbel = {
 - ✍️ &nbsp; Watching Anime.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMerc&theme=tokyonight&layout=compact"></img>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaxbel&theme=tokyonight&layout=compact"></img>
 
 
 
