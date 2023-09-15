@@ -21,7 +21,7 @@ const jaxbel = {
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaxbel&theme=graywhite&layout=compact"></img>
 
-
+![Jaxbel's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaxbel&theme=graywhite&layout=compact)
 
 ![Jaxbel's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaxbel&show_icons=true&theme=graywhite)
 
