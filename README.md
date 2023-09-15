@@ -19,7 +19,7 @@ const jaxbel = {
 - ✍️ &nbsp; Watching Anime.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaxbel&theme=tokyonight&layout=compact"></img>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaxbel&theme=graywhite&layout=compact"></img>
 
 
 
@@ -38,8 +38,6 @@ const jaxbel = {
 
 
 <a href="https://www.linkedin.com/in/jazziel-bello-86630323b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/Jaxbel" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://open.spotify.com/user/12176046918" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 <a href="https://dev.to/jaxbel" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 
 </div>
