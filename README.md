@@ -1,15 +1,22 @@
-### Hi there, i'm Jazziel👋
+# Hi there, I'm Jazziel 👋
 
-<img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="Coding GIF" height="200px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-[![GitHub Jaxbel](https://img.shields.io/github/followers/jaxbel?label=follow&style=social)](https://github.com/Jaxbel)
+[![GitHub Followers](https://img.shields.io/github/followers/jaxbel?label=Follow&style=social)](https://github.com/Jaxbel)
 
-```Js
-const jaxbel = {
-  code: [JavaScript, Python, Java, C#, R],
-  techCommunities: { member: "TribalDevs"},
-  FrameWorks: [Django, React],
+```java
+public class Jazziel {
+    String[] languages = {"Java", "Python", "JavaScript", "C#", "R"};
+    String[] frameworks = {"Spring Boot", "Django", "React"};
+    String company = "ITJuana";
+    String role = "Software Engineer";
+    String techCommunities = "TribalDevs";
+
+    void coffeeIsLife() {
+        System.out.println("A perfect cup of coffee solves everything ☕");
+    }
 }
+
 ```
 <h3> 👨🏻‍💻 About Me </h3>
 
