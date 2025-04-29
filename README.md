@@ -1,7 +1,7 @@
 <a href="https://github.com/Jaxbel">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jaxbel/Jaxbel/main/dark_mode.svg">
-    <img alt="Jazziel Bello's GitHub Profile README" src="https://raw.githubusercontent.com/Jaxbel/Jaxbel/main/light_mode.svg">
+    <img alt="Jazziel Bello's GitHub Profile README" src="[https://raw.githubusercontent.com/Jaxbel/Jaxbel/main/light_mode.svg](https://share.text-image.com/7d336b702ddb4b0f)">
   </picture>
 </a>
 
