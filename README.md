@@ -1,7 +1,4 @@
 # Hi there, I'm Jazziel 👋
-
-<img align="right" alt="Coding GIF" height="200px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-
 [![GitHub Followers](https://img.shields.io/github/followers/jaxbel?label=Follow&style=social)](https://github.com/Jaxbel)
 
 ```java
