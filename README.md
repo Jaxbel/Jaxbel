@@ -1,10 +1,27 @@
-<a href="https://github.com/Jaxbel">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jaxbel/Jaxbel/main/dark_mode.svg">
-    <img alt="Jazziel Bello's GitHub Profile" src="https://raw.githubusercontent.com/Jaxbel/Jaxbel/main/light_mode.svg">
-  </picture>
-</a>
+# Hi there, I'm Jazziel 👋
+[![GitHub Followers](https://img.shields.io/github/followers/jaxbel?label=Follow&style=social)](https://github.com/Jaxbel)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Jaxbel/Jaxbel/main/terminal_profile.svg" alt="Terminal Simulation with ASCII and Info" />
-</p>
+```java
+public class Jazziel {
+    String[] languages = {"Java", "Python", "JavaScript", "C#", "R"};
+    String[] frameworks = {"Spring Boot", "Django", "React"};
+    String company = "ITJuana";
+    String role = "Software Engineer";
+    String techCommunities = "TribalDevs";
+
+    void coffeeIsLife() {
+        System.out.println("A perfect cup of coffee solves everything ☕");
+    }
+}
+
+```
+<h3> 👨🏻‍💻 About Me </h3>
+
+- 🔭 &nbsp; I'm currently working at ITJuana as a Software Engineer.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Software Engeneer.
+- ✍️ &nbsp; Watching Anime.
+- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.
+
+
+</div>
