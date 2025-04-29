@@ -13,9 +13,9 @@ const jaxbel = {
 ```
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Backend in Java
+- 🔭 &nbsp; I'm currently working at ITJuana as a Software Engineer.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Software Engeneering.
+- 🎓 &nbsp; Software Engeneer.
 - ✍️ &nbsp; Watching Anime.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.
 
