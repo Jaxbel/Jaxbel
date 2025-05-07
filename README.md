@@ -20,7 +20,6 @@ public class Jazziel {
 - 🔭 &nbsp; I'm currently working at ITJuana as a Software Engineer.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Software Engeneer.
-- ✍️ &nbsp; Watching Anime.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.
 
 
